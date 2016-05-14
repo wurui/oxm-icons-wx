@@ -1,0 +1,45 @@
+.oxmod-oxm-icons-wx {
+  /* CSS */
+}
+.oxmod-oxm-icons-wx .right-ic {
+  float: right;
+  font-style: normal;
+  border-top: solid 1px #999;
+  border-right: solid 1px #999;
+  width: 10px;
+  height: 10px;
+  transform: rotate(45deg);
+  transform-origin: 0 100%;
+  margin-right: 5px;
+  margin-top: 5px;
+}
+.oxmod-oxm-icons-wx ul {
+  background-color: #efeff4;
+  list-style: none;
+  padding: 0;
+  border-bottom: solid 1px #ccc;
+  border-top: solid 1px #ccc;
+}
+.oxmod-oxm-icons-wx li {
+  margin-left: 10px;
+  padding: 10px 10px 10px 40px;
+  font-size: 20px;
+  line-height: 30px;
+  height: 30px;
+  border-bottom: solid 1px #ccc;
+}
+.oxmod-oxm-icons-wx li img {
+  vertical-align: middle;
+  float: left;
+  margin-left: -40px;
+  width: 30px;
+}
+.oxmod-oxm-icons-wx li:last-child {
+  border-bottom-style: none;
+}
+.oxmod-oxm-icons-wx li a {
+  display: block;
+  width: 100%;
+  color: #666;
+  text-decoration: none;
+}
